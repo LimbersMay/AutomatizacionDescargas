@@ -4,12 +4,8 @@ Order all your files in any folder, saving them in sub directories like: word, p
 
 # Download
 
----
-
 ## Installation of dependencies 
 `pip install -r requeriments.txt`
-
----
 
 ## Features / config file
 `json/informacion.json`
@@ -27,7 +23,6 @@ Order all your files in any folder, saving them in sub directories like: word, p
 
 - **extensiones:** The extensions folders what will be created and destinarion of the ordered files 
 
----
 ## Program operation
 
 The program will read all your files in the origin path and will register their name and the date they were read. 
